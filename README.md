@@ -1,5 +1,5 @@
 # Functional Testing of OpenStack Barbican
-This project involves in performing functional testing of OpenStack Barbican Key Manager.
+This project involves in performing functional testing of OpenStack Barbican Key Manager deployed on the Red Hat OpenStack platform version 14.
 
 # Getting Started
 ## About Barbican
